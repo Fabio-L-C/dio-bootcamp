@@ -9,3 +9,5 @@
   - https://colab.research.google.com/drive/1ZvA8mRbbUpm66sdKIAdvSAMmukWSFhq3#scrollTo=sMS94byq-Z3C
 - Criando um microsserviço serverless para validação de CPF
   - LINK
+- Como Fazer o Deploy de uma API na Nuvem na Prática
+  - https://github.com/Fabio-L-C/dio-bootcamp/tree/main/APITempoDIO
