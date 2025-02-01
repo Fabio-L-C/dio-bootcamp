@@ -14,3 +14,5 @@
   - https://github.com/Fabio-L-C/dio-bootcamp/tree/main/httpValidaCpf-main
 - Como Fazer o Deploy de uma API na Nuvem na Prática
   - https://github.com/Fabio-L-C/dio-bootcamp/tree/main/APITempoDIO
+- Criando um Gerenciador de Catálogos da Netflix com Azure Functions e Banco de Dados
+  - https://github.com/Fabio-L-C/dio-bootcamp/tree/main/flixdio/fnPostDataStorage  
